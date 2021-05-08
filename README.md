@@ -1,1 +1,3 @@
-This Repository content two branches
+This Repository contents two branches:-
+1)magento:-simple module
+2)eav_setup:-salesman eav module
